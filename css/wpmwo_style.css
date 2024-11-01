@@ -1,0 +1,30 @@
+div#wpmwo_show_result {}
+
+.wpmwo_online_visitors {
+    display: block;
+    overflow: hidden;
+}
+
+.wpmwo_online_visitors ul {
+    padding: 0!important;
+    margin: 0!important;
+    list-style: none!important;
+}
+
+.wpmwo_online_visitors ul li {
+    display: inline-block!important;
+}
+
+.wpmwo_online_visitors ul li img {
+    display: block;
+    border: 1px solid #ddd;
+    padding: 3px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.wpmwo_online_visitors ul li.wpmwo_member_name {
+    display: block!important;
+    margin-bottom: 5px;
+    list-style: disc;
+}
